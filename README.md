@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Olá! Sou Gabriel Apolinário Fabrício, um desenvolvedor backend e estudante de Análise e Desenvolvimento de Sistemas. Minha jornada na programação começou com JavaScript, HTML e CSS, onde aprendi as bases do desenvolvimento web. No entanto, ao começar a estudar Java, percebi que era a tecnologia com a qual eu mais me identificava. Desde então, tenho me dedicado ao aperfeiçoamento nessa linguagem.<br>Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer. Para isso, tenho desenvolvido projetos pessoais, que você pode conferir aqui.</p>
+<p align="left">Sou Gabriel Apolinário Fabrício, um desenvolvedor backend e estudante de Análise e Desenvolvimento de Sistemas. Minha jornada na programação começou com JavaScript, HTML e CSS, onde aprendi as bases do desenvolvimento web. No entanto, ao começar a estudar Java, percebi que era a tecnologia com a qual eu mais me identificava. Desde então, tenho me dedicado ao aperfeiçoamento nessa linguagem.<br>Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer. Para isso, tenho desenvolvido projetos pessoais, que você pode conferir aqui.</p>
 
 ###
 
